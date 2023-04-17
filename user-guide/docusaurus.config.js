@@ -53,6 +53,11 @@ const config = {
     ({
       // Replace with your project's social card
       disableVersioning: true,
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+        respectPrefersColorScheme: true,
+      },
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: '',
@@ -111,11 +116,11 @@ const config = {
             items: [
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/powrsolutions',
               },
               {
                 label: 'Linked in',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://www.linkedin.com/company/powr-solutions',
               },
             ],
           },
@@ -124,11 +129,11 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/POWR-Solutions-Ltd',
               },
               {
                 label: 'POWR Solutions',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://powrsolutions.co.uk',
               },
             ],
           },
@@ -136,7 +141,7 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} POWR Solutions Ltd, Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
+        theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
