@@ -1,11 +1,5 @@
 ---
 title: Home Page
-description: ""
-date: 2023-04-08T20:02:27.550Z
-preview: "./assets/home-page.png"
-draft: true
-tags: []
-categories: []
 ---
 
 ## Stickers Home Page

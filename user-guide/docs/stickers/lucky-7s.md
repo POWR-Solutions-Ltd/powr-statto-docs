@@ -1,11 +1,5 @@
 ---
 title: Lucky 7s
-description: ""
-date: 2023-04-08T19:42:29.573Z
-preview: "./assets/lucky7s.png"
-draft: true
-tags: []
-categories: []
 ---
 
 :::info Lucky 7s

@@ -1,12 +1,7 @@
 ---
 title: Stickers Installation
-description: ""
-date: 2023-04-08T18:35:23.797Z
-preview: ""
-draft: true
-tags: []
-categories: []
 ---
+
 
 ## Installation
 

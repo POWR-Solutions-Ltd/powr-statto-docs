@@ -1,11 +1,5 @@
 ---
 title: Setup Canvas App
-description: ""
-date: 2023-04-08T22:32:00.964Z
-preview: "./assets/stickers-setup-1.png"
-draft: true
-tags: []
-categories: []
 ---
 
 ### Step 1 - Getting Started

@@ -1,14 +1,8 @@
 ---
 title: Overview
-description: ""
-date: 2023-04-08T19:42:11.761Z
-preview: ""
-draft: true
-tags: []
-categories: []
 ---
 
-Welcome to Statto Stickers!
+## Welcome to Statto Stickers!
 
 ## Background
 

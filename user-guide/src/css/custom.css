@@ -15,6 +15,7 @@
   --ifm-color-primary-lightest: #7A2CBD;
   --ifm-code-font-size: 115%;
   --ifm-footer-background-color:#3C175C !important;
+  --ifm-hero-background-color:#3C175C !important; 
   --ifm-color-emphasis-0:#3C175C;
   --ifm-background-color:#3C175C;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
@@ -22,7 +23,7 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #04BFF1;
+  --ifm-color-primary: #F5EC4B;
   --ifm-color-primary-dark: #04BFF1;
   --ifm-color-primary-darker: #06B6E4;
   --ifm-color-primary-darkest: #08ACD8;
@@ -30,7 +31,8 @@
   --ifm-color-primary-lighter: #F1E73F;
   --ifm-color-primary-lightest: #F5EC4B;
   --ifm-code-font-size: 115%;
-  --ifm-heading-color:#FFF;
+  --ifm-heading-color:#04BFF1;
+  --ifm-hero-background-color:#000 !important; 
   --ifm-footer-background-color: #000 !important; 
   --ifm-color-emphasis-0:#3C175C;
   --ifm-background-color:#2D1145 !important; 
@@ -38,4 +40,4 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-/*.hero { display:flex;background-image: url(../../static/img/unnamed.jpg);background-repeat: no-repeat;background-size:cover;}*/
+.hero { display:flex;background-image: url(../../static/img/powr-background-3-dark.svg);background-repeat: no-repeat;background-size:cover;}

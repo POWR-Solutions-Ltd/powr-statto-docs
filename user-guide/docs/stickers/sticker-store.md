@@ -1,11 +1,5 @@
 ---
 title: Sticker Store
-description: ""
-date: 2023-04-08T19:43:30.121Z
-preview: "./assets/sticker-store.png"
-draft: true
-tags: []
-categories: []
 ---
 
 ## Sticker Store

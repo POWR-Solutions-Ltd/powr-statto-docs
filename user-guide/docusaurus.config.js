@@ -15,7 +15,7 @@ const config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-
+  
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'powr-solutions-ltd', // Usually your GitHub org/user name.
@@ -39,14 +39,11 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          
-        },
-        blog: {
-          showReadingTime: true,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+       
       }),
     ],
   ],
@@ -55,6 +52,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
+      disableVersioning: true,
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: '',
@@ -80,7 +78,7 @@ const config = {
             position: 'left',
             label: 'PRO',
           },
-          //{to: '/blog', label: 'Blog', position: 'left'},
+         
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -96,15 +94,15 @@ const config = {
             items: [
               {
                 label: 'Stickers',
-                to: '/docs/stickers',
+                to: '/docs/stickers/overview',
               },
                 {
                   label: 'Statto LITE',
-                  to: '/docs/lite',
+                  to: '/docs/lite/statto-lite-installation',
                 },
                 {
                     label: 'Statto Pro',
-                    to: '/docs/pro',
+                    to: 'docs/pro/statto-pro-installation',
                   },
             ],
           },
@@ -124,10 +122,6 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Statto Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
