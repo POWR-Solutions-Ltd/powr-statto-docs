@@ -1,5 +1,6 @@
 ---
 title: Lucky 7s
+preview: ./assets/lucky7s.png
 ---
 
 :::info Lucky 7s

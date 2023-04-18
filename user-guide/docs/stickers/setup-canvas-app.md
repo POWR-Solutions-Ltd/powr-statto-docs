@@ -1,5 +1,6 @@
 ---
 title: Setup Canvas App
+preview: ./assets/stickers-setup-6-2.png
 ---
 
 ### Step 1 - Getting Started
