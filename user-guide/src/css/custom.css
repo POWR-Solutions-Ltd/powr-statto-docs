@@ -44,4 +44,6 @@
 }
 */
 
-.hero { display:flex;background-image: url(../../static/img/powr-background-3-dark.svg);background-repeat: no-repeat;background-size:cover;}
+.hero { display:flex;background-image: url(../../static/img/powr-background-3-dark.svg);background-repeat: no-repeat;}
+
+.header-powr-link {display:flex;background-image: url(../../static/img/powr_200_dark.svg); background-repeat: no-repeat;background-size:cover;}

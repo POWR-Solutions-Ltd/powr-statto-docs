@@ -35,14 +35,26 @@ As collecting coins is essential for purchasing sticker packs, we have implement
 
 Another way to earn coins is through playing Clippy Poker, a video poker game that was originally an unfinished experiment to calculate poker hands and create a round-based game. To win big, players can bet 100 coins each hand. For more details on how to play Clippy Poker, visit the **How to play Clippy Poker** page.
 
+### Shiny Stickers
+
+- Club Crests
+- Club Managers
+- 70 Players
+
+110 Shinies in total, good luck!
+
+
 :::tip
 It's worth noting that Clippy will allow players to overdraw from their bank account!
 :::
 
 To play Statto Stickers, the following components are required:
 
-Power Platform Environment with Custom PCF Components enabled
-Premium Power Apps licenses
-All app users must have a premium license to use Dataverse and Custom Connectors
-A free Football API Key from API-Sports.io
-Let's get started! Click "Next" for installation instructions.
+- Power Platform Environment with Custom PCF Components enabled
+- Premium Power Apps licenses
+- All app users must have a premium license to use Dataverse and Custom Connectors
+- A free Football API Key from API-Sports.io
+
+Let's get started! 
+
+Click "Next" for installation instructions.

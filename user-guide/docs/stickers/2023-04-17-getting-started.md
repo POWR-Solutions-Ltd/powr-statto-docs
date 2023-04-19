@@ -10,16 +10,21 @@ categories: []
 
 Congratulations, you have now installed and configured Statto Stickers and your ready to play!
 
-Run the **Statto Stickers** Canvas App.
+## 5 Steps to get sticking!
+
+### Step 1 - Run the **Statto Stickers** Canvas App.
+
+The first time you run the app you will receive 🪙 10000 coins to get you started.
 
 :::tip 
 Save Stickers as a PWA and pin it to your task bar, in edge
 :::
 
-The first time you run the app you will receive 🪙 10000 coins to get you started.  
+### Step 2 - Goto to the sticker store and buy some sticker packs.
 
-Goto to the sticker store and buy some sticker packs.
+### Step 3 - Open the album by clicking on a team or on the link in the header.
 
-Open the album by clicking on a team or on the link in the header.
+### Step 4 - Click open pack and see what stickers you get!
 
-Click open pack and see what stickers you get!
+### Step 5 - Start sticking!
+Happy Sticking!!!

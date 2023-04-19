@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'POWR Statto',
-  tagline: 'Stats are fun!',
+  title: 'Statto',
+  tagline: '',
   favicon: 'img/favicon.ico',
   markdown: {
     mermaid: true,
@@ -88,7 +88,12 @@ const config = {
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
+            position: 'left',
+          },
+          {
+            type: 'html',
             position: 'right',
+            value: "<img height=' 50px' src='img/powr_200_white.svg' />",
           },
         ],
       },
@@ -142,8 +147,9 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} POWR Solutions Ltd, Built with Docusaurus.`,
       },
       prism: {
-        theme: darkCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: require('prism-react-renderer/themes/dracula'),
+        darkTheme: require('prism-react-renderer/themes/dracula'),
+        additionalLanguages: ['yaml'],
       },
     }),
 };

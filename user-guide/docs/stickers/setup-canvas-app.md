@@ -62,6 +62,12 @@ Select the top 70 players using the refresh icon.
 
 Once you have decided on your shinies configuration, click on **Create Stickers** this will save your configuration.
 
-## Configure Security Roles and Share the Canvas app.
+### Step 7 - Configure User Security Roles
+Users of Statto stickers require 2 security role:
 
-You have now completed the data import, all thats left is to configure your users with the App Opener and Statto User Security Roles and share the Statto Stickers Canvas app with your users.
+- App Opener
+- Stickers User
+
+### Step 8 - Share the app
+
+Last step is to share the canvas app with your users.
