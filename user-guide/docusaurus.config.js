@@ -86,14 +86,14 @@ const config = {
             label: 'PRO',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/POWR-Solutions-Ltd/POWR-Statto',
             label: 'GitHub',
             position: 'left',
           },
           {
             type: 'html',
             position: 'right',
-            value: "<img height=' 50px' src='img/powr_200_white.svg' />",
+            value: "<img height='40px' src='https://statto.powrsolutions.co.uk/img/powr_200_white.svg'  />",
           },
         ],
       },
