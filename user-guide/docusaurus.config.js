@@ -60,7 +60,7 @@ const config = {
         disableSwitch: true,
         respectPrefersColorScheme: true,
       },
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/powr-statto-social-card.jpg',
       navbar: {
         title: '',
         logo: {
