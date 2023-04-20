@@ -135,7 +135,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/POWR-Solutions-Ltd',
+                href: 'https://github.com/POWR-Solutions-Ltd/POWR-Statto',
               },
               {
                 label: 'POWR Solutions',
