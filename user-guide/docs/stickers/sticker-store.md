@@ -1,6 +1,7 @@
 ---
 title: Sticker Store
 preview: ./assets/sticker-store.png
+draft: false
 ---
 
 ## Sticker Store

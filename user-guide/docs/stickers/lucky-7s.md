@@ -1,6 +1,7 @@
 ---
 title: Lucky 7s
 preview: ./assets/lucky7s.png
+draft: true
 ---
 
 :::info Lucky 7s

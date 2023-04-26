@@ -39,6 +39,7 @@ const sidebars = {
       collapsed: false,
       items: ['stickers/how-to/2023-04-18-buy-sticker-packs','stickers/how-to/2023-04-18-open-sticker-pack','stickers/how-to/2023-04-18-drag-and-drop-stickers-in-the-album','stickers/how-to/2023-04-18-how-to-play-lucky-7s','stickers/how-to/2023-04-18-how-to-play-clippy-poker'],
     },
+    /*
     {
       type: 'category',
       label: 'Stickers Canvas App',
@@ -77,7 +78,7 @@ const sidebars = {
           ],
         },
       ],
-    },
+    },*/
   ],
    
 };

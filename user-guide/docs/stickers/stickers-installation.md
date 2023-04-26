@@ -1,6 +1,7 @@
 ---
 title: Stickers Installation
 preview: './assets/darksetup.png'
+draft: false
 ---
 
 

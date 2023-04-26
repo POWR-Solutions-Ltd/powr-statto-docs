@@ -1,6 +1,7 @@
 ---
 title: Home Page
 preview: './assets/home-page.png'
+draft: false
 ---
 
 ## Stickers Home Page

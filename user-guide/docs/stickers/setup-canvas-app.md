@@ -1,6 +1,7 @@
 ---
 title: Setup Canvas App
 preview: ./assets/stickers-setup-6-2.png
+draft: false
 ---
 
 Once the solutions have been imported, Open the **POWR Statto Stickers 2022 Setup** app:

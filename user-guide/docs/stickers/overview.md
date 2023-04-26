@@ -1,6 +1,7 @@
 ---
 title: Overview
 preview: ./assets/home-page.png
+draft: true
 ---
 
 ## Welcome to Statto Stickers!
