@@ -16,4 +16,6 @@ Head to the Sticker Store to buy sticker packs, you can get to the sticker store
 
 ![Sticker Store](../assets/sticker-store.png)
 
-On the Sticker Pack item click **Add to cart**
+On the Sticker Pack item click **Add to cart** for the Item you want, select how many and click buy.
+
+![Sticker Store](../assets/sticker-store1.png)

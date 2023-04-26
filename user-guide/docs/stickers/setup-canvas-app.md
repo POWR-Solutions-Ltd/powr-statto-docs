@@ -28,7 +28,8 @@ Once the app loads you will be shown the Getting started page, click next to get
 
 ![Setup 2](./assets/stickers-setup-2.png)
 
-On the Load API Data 2022 page, click each of the buttons from top (Venues) to bottom (Save Lineups) untill all the progress bars are complete.
+On the Load API Data 2022 page, click each of the buttons from top (Venues) to bottom (Save Fixtures) untill all the progress bars are complete.
+The Save fixtures is split into 4 so the rate limit is not met on the API, and saves alot of data approx 30,000 rows in total, click on each 100 button and wait for that 100 to complete before clicking the second 100 etc/
 
 ![Setup 2](./assets/stickers-setup-2.png)
 

@@ -6,6 +6,11 @@ draft: false
 
 ## Welcome to Statto Stickers!
 
+:::warning PREVIEW
+This is an early preview to get feedback before the start of the 2023/2024 season in August.
+Some things may be broken, if you find an issue please let us know.
+:::
+
 The Power Platform digital Premier League Sticker Album
 ![Stickers](./assets/sticker-in-album.gif)
 ## Background
