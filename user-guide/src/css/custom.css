@@ -44,4 +44,4 @@
 }
 */
 /*.hero { display:flex;background-image: url(https://statto.powrsolutions.co.uk/img/powr-background-3-dark.svg);background-repeat: no-repeat;}*/
-.hero { display:flex;background-image: url(../../static/img/back.png);background-repeat: no-repeat;}
+.hero { display:flex;background-image: url(../../static/img/back.png);background-repeat: repeat-x;}
