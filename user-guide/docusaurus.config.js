@@ -85,6 +85,7 @@ const config = {
             position: 'left',
             label: 'PRO',
           },
+          {to: 'blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/POWR-Solutions-Ltd/POWR-Statto',
             label: 'GitHub',
