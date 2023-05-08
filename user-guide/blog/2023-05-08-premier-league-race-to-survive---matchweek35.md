@@ -2,7 +2,7 @@
 title: EPL Race to Survive - Matchweek 35
 description: ""
 date: 2023-05-08T04:57:48.359Z
-preview: ""
+preview: "./assets/race-to-survive-080523.png"
 draft: false
 tags: []
 categories: []
