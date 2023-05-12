@@ -2,7 +2,7 @@
 title: Premier League Matchweek 36
 description: ""
 date: 2023-05-12T22:01:36.719Z
-preview: ""
+preview: "./assets/mw36.png"
 draft: false
 tags: []
 categories: []
